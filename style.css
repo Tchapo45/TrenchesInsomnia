@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #1a1a2e, #16213e);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 50px;
+    background: #0f3460;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+.cta-button {
+    padding: 15px 30px;
+    background: #e94560;
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    border-radius: 5px;
+}
+
+.cta-button:hover {
+    background: #ff4757;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+footer {
+    background: #0f3460;
+    padding: 20px;
+}
